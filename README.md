@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Cruz Sanchez github stats](https://github-readme-stats.vercel.app/api?username=CruzSanchez)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Cruz Sanchez github stats](https://github-readme-stats.vercel.app/api?username=CruzSanchez)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **CruzSanchez/CruzSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
